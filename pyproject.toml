@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "dotenv>=0.9.9",
+    "portkey-ai>=1.15.1",
     "strands-agents>=1.10.0",
     "strands-agents-tools>=0.2.9",
 ]
